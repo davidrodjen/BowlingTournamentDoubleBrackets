@@ -4,4 +4,4 @@ Using File Upload, data can be collected via the program which will be displayed
 
 # Gallery
 **Empty Brackets**
-![Empty Brackets](BowlingTournamentDoubleBrackets/EmptyBrackets.png)
+![Empty Brackets](davidrodjen/BowlingTournamentDoubleBrackets/blob/master/EmptyBrackets.PNG)
